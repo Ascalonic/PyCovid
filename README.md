@@ -17,3 +17,17 @@ were used to train the model. Of them Germany yielded the best results. Loss dur
 
 ## Results
 ![Growth Prediction for the next 7 days](growth_prediction.png)
+
+LSTM based predictions are not suitable for predicting farther time ranges. I have hereby listed for the next 6 days. 
+
+### The next 6 days (18-03-2020 to 25-03-2020)
+Date | Total Cases
+------------ | -------------
+18-03-2020 | 153
+19-03-2020 | 196
+20-03-2020 | 237
+21-03-2020 | 270
+22-03-2020 | 292
+23-03-2020 | 304
+
+**If the preventive measures taken were not effective in the last 20 days, the growth will cross 300 within a week**
