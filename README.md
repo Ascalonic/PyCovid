@@ -14,3 +14,6 @@ when the growth was at an advanced stage in China. Therfore the results were not
 ## Attempt 3
 After noticing similar patterns of growth in early stage in various countries, including India, countries like Austria, Czech Republic
 were used to train the model. Of them Germany yielded the best results. Loss during training was in ranges of 4.2715e-05and Root Mean Square Error (RMSE) in ranges of 40s. The prediction was spot on.
+
+## Results
+![Growth Prediction for the next 7 days](growth_prediction.png)
