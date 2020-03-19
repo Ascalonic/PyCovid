@@ -16,7 +16,7 @@ After noticing similar patterns of growth in early stage in various countries, i
 were used to train the model. Of them Germany yielded the best results. Loss during training was in ranges of 4.2715e-05and Root Mean Square Error (RMSE) in ranges of 40s. The prediction was spot on.
 
 ## Results
-![Growth Prediction for the next 7 days](growth_prediction.png)
+![Growth Prediction for the next 7 days](19th.png)
 
 LSTM based predictions are not suitable for predicting farther time ranges. I have hereby listed for the next 6 days. 
 
