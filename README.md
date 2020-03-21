@@ -16,18 +16,18 @@ After noticing similar patterns of growth in early stage in various countries, i
 were used to train the model. Of them Germany yielded the best results. Loss during training was in ranges of 4.2715e-05and Root Mean Square Error (RMSE) in ranges of 40s. The prediction was spot on.
 
 ## Results
-![Growth Prediction for the next 7 days](19th.png)
+![Growth Prediction for the next 7 days](20th.png)
 
 LSTM based predictions are not suitable for predicting farther time ranges. I have hereby listed for the next 6 days. 
 
-### The next 6 days (20-03-2020 to 25-03-2020)
+### The next 6 days (21-03-2020 to 26-03-2020)
 Date | Total Cases
 ------------ | -------------
-20-03-2020 | 195
-21-03-2020 | 237
-22-03-2020 | 272
-23-03-2020 | 296
-24-03-2020 | 311
-25-03-2020 | 320
+21-03-2020 | 277
+22-03-2020 | 324
+23-03-2020 | 360
+24-03-2020 | 383
+25-03-2020 | 397
+26-03-2020 | 405
 
-**If the preventive measures taken were not effective in the last 20 days, the growth will cross 300 within a week**
+**If the preventive measures taken were not effective in the last 20 days, the growth will cross 400 within a week**
